@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "rent_periods",
+  "info": {
+    "singularName": "rent-period",
+    "pluralName": "rent-periods",
+    "displayName": "Rent_period"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "days": {
+      "type": "string"
+    }
+  }
+}
